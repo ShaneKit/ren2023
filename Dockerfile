@@ -3,4 +3,4 @@ FROM alpine
 COPY ./main /main
 WORKDIR /main
 
-CMD sh start.sh1
+CMD sh start.sh
